@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ken264-ux/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/Ken264-ux/COMP2156/static/js/main.c431e645.js",
+    "static/js/453.587ded94.chunk.js": "/Ken264-ux/COMP2156/static/js/453.587ded94.chunk.js",
+    "index.html": "/Ken264-ux/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/Ken264-ux/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.c431e645.js.map": "/Ken264-ux/COMP2156/static/js/main.c431e645.js.map",
+    "453.587ded94.chunk.js.map": "/Ken264-ux/COMP2156/static/js/453.587ded94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.c431e645.js"
+  ]
+}
